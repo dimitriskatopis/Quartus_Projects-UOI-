@@ -1,0 +1,15 @@
+library IEEE;
+
+use IEEE.std_logic_1164.all;
+
+entity askisi1 is 
+port ( X,Y : in STD_LOGIc;
+			Z:out STD_LOGIC);
+end askisi1;
+
+begin 
+if (X==1)
+Z<= AB=A;
+else 
+z<= AB +b
+end
